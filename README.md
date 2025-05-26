@@ -129,10 +129,15 @@ Visit `http://localhost:3000` to view the app.
 ![Dashboard](./public/screenshots/dashboard.png)
 
 ### 👤 Employee Details
-![Employee Details](./public/screenshots/details.png)
+![Employee Details](./public/screenshots/details1.png)
+![Employee Details](./public/screenshots/details2.png)
+
+### 👤 Book Marks
+![Employee Details](./public/screenshots/bookmarks.png)
 
 ### 📊 Analytics
-![Analytics](./public/screenshots/analytics.png)
+![Analytics](./public/screenshots/analysis1.png)
+![Analytics](./public/screenshots/analysis2.png)
 
 
 ## 🙌 Acknowledgments
