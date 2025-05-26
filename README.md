@@ -129,8 +129,8 @@ Visit `http://localhost:3000` to view the app.
 ![Dashboard](./public/screenshots/dashboard.png)
 
 ### 👤 Employee Details
-![Employee Details](./public/screenshots/details1.png)
-![Employee Details](./public/screenshots/details2.png)
+![Employee Details](./public/screenshots/employeedetails1.png)
+![Employee Details](./public/screenshots/employeedetails2.png)
 
 ### 👤 Book Marks
 ![Employee Details](./public/screenshots/bookmarks.png)
